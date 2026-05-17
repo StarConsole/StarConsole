@@ -23,8 +23,8 @@ capabilities = {
 
 #### 📊 Live Engine Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=StarConsole&show_icons=true&hide_border=true&title_color=cccccc&icon_color=888888&text_color=999999&bg_color=0c0e0f" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarConsole&layout=compact&hide_border=true&title_color=cccccc&text_color=999999&bg_color=0c0e0f" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SstarDisKim&show_icons=true&hide_border=true&title_color=cccccc&icon_color=888888&text_color=999999&bg_color=0c0e0f" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SstarDisKim&layout=compact&hide_border=true&title_color=cccccc&text_color=999999&bg_color=0c0e0f" width="48%" />
 </p>
 
 #### 📁 Custom System Controls
